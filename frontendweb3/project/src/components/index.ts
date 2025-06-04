@@ -1,0 +1,9 @@
+export { Header } from './Header';
+export { LoginForm } from './LoginForm';
+export { InstitutionPortal } from './InstitutionPortal';
+export { StudentPortal } from './StudentPortal';
+export { VerifierPortal } from './VerifierPortal';
+export { SystemArchitecture } from './SystemArchitecture';
+export { WorkflowProcess } from './WorkflowProcess';
+export { OracleStatus } from './OracleStatus';
+export { Root } from './Root';
